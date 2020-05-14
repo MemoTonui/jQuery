@@ -72,6 +72,10 @@ h1.heading {
   transition: all 0.3 ease;
   cursor: pointer;
 }
+#reset {
+  background-color: #c0122b;
+  margin-top: 20px;
+}
 .form button:hover,.form button:active,.form button:focus {
   background: #43A047;
 }
